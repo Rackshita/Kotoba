@@ -1,0 +1,21 @@
+<h2>JLPT N5 Collection</h2>
+
+<div class="controls">
+
+<button (click)="decrease()">-</button>
+<span>{{limit}} words</span>
+<button (click)="increase()">+</button>
+
+</div>
+
+<div class="word-list">
+
+<div *ngFor="let w of words" class="word-card">
+  <b>{{w.kana}}</b> - {{w.meaning}}
+</div>
+
+</div>
+
+<button (click)="startLearning()" class="start-btn">
+Start Learning
+</button>

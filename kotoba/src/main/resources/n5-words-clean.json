@@ -1,0 +1,4364 @@
+[
+  {
+    "kana": "ああ",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "Ah!, Oh!"
+  },
+  {
+    "kana": "あう",
+    "kanji": "会う",
+    "type": "verb",
+    "meaning": "to meet, to see"
+  },
+  {
+    "kana": "あお",
+    "kanji": "青",
+    "type": "noun",
+    "meaning": "blue"
+  },
+  {
+    "kana": "あおい",
+    "kanji": "青い",
+    "type": "adjective",
+    "meaning": "blue"
+  },
+  {
+    "kana": "あか",
+    "kanji": "赤",
+    "type": "noun",
+    "meaning": "red"
+  },
+  {
+    "kana": "あかい",
+    "kanji": "赤い",
+    "type": "adjective",
+    "meaning": "red"
+  },
+  {
+    "kana": "あかるい",
+    "kanji": "明るい",
+    "type": "adjective",
+    "meaning": "bright, cheerful"
+  },
+  {
+    "kana": "あき",
+    "kanji": "秋",
+    "type": "noun",
+    "meaning": "autumn, fall"
+  },
+  {
+    "kana": "あく",
+    "kanji": "開く",
+    "type": "verb",
+    "meaning": "to open, to become open"
+  },
+  {
+    "kana": "あける",
+    "kanji": "開ける",
+    "type": "verb",
+    "meaning": "to open"
+  },
+  {
+    "kana": "あげる",
+    "kanji": "上げる",
+    "type": "verb",
+    "meaning": "to give"
+  },
+  {
+    "kana": "あさ",
+    "kanji": "朝",
+    "type": "noun",
+    "meaning": "morning"
+  },
+  {
+    "kana": "あさごはん",
+    "kanji": "朝御飯",
+    "type": "noun",
+    "meaning": "breakfast"
+  },
+  {
+    "kana": "あさって",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "day after tomorrow"
+  },
+  {
+    "kana": "あし",
+    "kanji": "足",
+    "type": "noun",
+    "meaning": "foot, leg"
+  },
+  {
+    "kana": "あした",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "tomorrow"
+  },
+  {
+    "kana": "あそこ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "there, over there, that place"
+  },
+  {
+    "kana": "あそぶ",
+    "kanji": "遊ぶ",
+    "type": "verb",
+    "meaning": "to play, to enjoy oneself"
+  },
+  {
+    "kana": "あたたかい",
+    "kanji": "暖かい",
+    "type": "adjective",
+    "meaning": "warm, mild"
+  },
+  {
+    "kana": "あたま",
+    "kanji": "頭",
+    "type": "noun",
+    "meaning": "head"
+  },
+  {
+    "kana": "あたらしい",
+    "kanji": "新しい",
+    "type": "adjective",
+    "meaning": "new"
+  },
+  {
+    "kana": "あちら",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "there, yonder, that"
+  },
+  {
+    "kana": "あつい",
+    "kanji": "暑い",
+    "type": "adjective",
+    "meaning": "hot, warm"
+  },
+  {
+    "kana": "あつい",
+    "kanji": "熱い",
+    "type": "adjective",
+    "meaning": "hot (thing)"
+  },
+  {
+    "kana": "あつい",
+    "kanji": "厚い",
+    "type": "adjective",
+    "meaning": "kind, warm(hearted), thick, deep"
+  },
+  {
+    "kana": "あっち",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "over there"
+  },
+  {
+    "kana": "あと",
+    "kanji": "後",
+    "type": "adjective",
+    "meaning": "afterwards, since then, in the future"
+  },
+  {
+    "kana": "あなた",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "you"
+  },
+  {
+    "kana": "あに",
+    "kanji": "兄",
+    "type": "noun",
+    "meaning": "(hum) older brother"
+  },
+  {
+    "kana": "あね",
+    "kanji": "姉",
+    "type": "noun",
+    "meaning": "(hum) older sister"
+  },
+  {
+    "kana": "あの",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "that over there"
+  },
+  {
+    "kana": "あの",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "um..."
+  },
+  {
+    "kana": "アパート",
+    "kanji": "",
+    "type": "adverb",
+    "meaning": "apartment (abbr)"
+  },
+  {
+    "kana": "あびる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to bathe, to shower"
+  },
+  {
+    "kana": "あぶない",
+    "kanji": "危ない",
+    "type": "adjective",
+    "meaning": "dangerous, critical, watch out!"
+  },
+  {
+    "kana": "あまい",
+    "kanji": "甘い",
+    "type": "adjective",
+    "meaning": "generous, sweet"
+  },
+  {
+    "kana": "あまり",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "not very, not much"
+  },
+  {
+    "kana": "あめ",
+    "kanji": "雨",
+    "type": "noun",
+    "meaning": "rain"
+  },
+  {
+    "kana": "あめ",
+    "kanji": "飴",
+    "type": "noun",
+    "meaning": "(hard) candy, toffee"
+  },
+  {
+    "kana": "あらう",
+    "kanji": "洗う",
+    "type": "verb",
+    "meaning": "to wash"
+  },
+  {
+    "kana": "ある [存在]",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to be"
+  },
+  {
+    "kana": "ある [所有]",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to have"
+  },
+  {
+    "kana": "あるく",
+    "kanji": "歩く",
+    "type": "verb",
+    "meaning": "to walk"
+  },
+  {
+    "kana": "あれ",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "that, that thing"
+  },
+  {
+    "kana": "いい/よい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "good"
+  },
+  {
+    "kana": "いいえ",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "no, not at all"
+  },
+  {
+    "kana": "いう",
+    "kanji": "言う",
+    "type": "verb",
+    "meaning": "to say"
+  },
+  {
+    "kana": "いえ",
+    "kanji": "家",
+    "type": "suffix",
+    "meaning": "house, family"
+  },
+  {
+    "kana": "いかが",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "how, in what way"
+  },
+  {
+    "kana": "いく/ゆく",
+    "kanji": "行く",
+    "type": "verb",
+    "meaning": "to go"
+  },
+  {
+    "kana": "いくつ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "how many?, how old?"
+  },
+  {
+    "kana": "いくら",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "how much?, how many?"
+  },
+  {
+    "kana": "いけ",
+    "kanji": "池",
+    "type": "noun",
+    "meaning": "pond"
+  },
+  {
+    "kana": "いしゃ",
+    "kanji": "医者",
+    "type": "noun",
+    "meaning": "doctor (medical)"
+  },
+  {
+    "kana": "いす",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "chair"
+  },
+  {
+    "kana": "いそがしい",
+    "kanji": "忙しい",
+    "type": "adjective",
+    "meaning": "busy, irritated"
+  },
+  {
+    "kana": "いたい",
+    "kanji": "痛い",
+    "type": "adjective",
+    "meaning": "painful"
+  },
+  {
+    "kana": "いち",
+    "kanji": "一",
+    "type": "number",
+    "meaning": "one"
+  },
+  {
+    "kana": "いちにち",
+    "kanji": "一日",
+    "type": "noun",
+    "meaning": "1 day (duration)"
+  },
+  {
+    "kana": "いちばん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "best, first, number one"
+  },
+  {
+    "kana": "いつ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "when"
+  },
+  {
+    "kana": "いつか",
+    "kanji": "五日",
+    "type": "noun",
+    "meaning": "five days, the fifth day (of the month)"
+  },
+  {
+    "kana": "いっしょ",
+    "kanji": "一緒",
+    "type": "verb",
+    "meaning": "together"
+  },
+  {
+    "kana": "いつつ",
+    "kanji": "五つ",
+    "type": "noun",
+    "meaning": "five"
+  },
+  {
+    "kana": "いつも",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "always, every time"
+  },
+  {
+    "kana": "いぬ",
+    "kanji": "犬",
+    "type": "noun",
+    "meaning": "dog"
+  },
+  {
+    "kana": "いま",
+    "kanji": "今",
+    "type": "noun",
+    "meaning": "now"
+  },
+  {
+    "kana": "いみ",
+    "kanji": "意味",
+    "type": "noun",
+    "meaning": "meaning"
+  },
+  {
+    "kana": "いもうと",
+    "kanji": "妹",
+    "type": "noun",
+    "meaning": "younger sister"
+  },
+  {
+    "kana": "いや",
+    "kanji": "嫌",
+    "type": "adjective",
+    "meaning": "disagreeable, no"
+  },
+  {
+    "kana": "いりぐち",
+    "kanji": "入口",
+    "type": "noun",
+    "meaning": "entrance, gate"
+  },
+  {
+    "kana": "いる",
+    "kanji": "居る",
+    "type": "verb",
+    "meaning": "(hum) to be (animate), to exist"
+  },
+  {
+    "kana": "いる",
+    "kanji": "要る",
+    "type": "verb",
+    "meaning": "to need"
+  },
+  {
+    "kana": "いれる",
+    "kanji": "入れる",
+    "type": "verb",
+    "meaning": "to put in"
+  },
+  {
+    "kana": "いろ",
+    "kanji": "色",
+    "type": "noun",
+    "meaning": "colour"
+  },
+  {
+    "kana": "いろいろ",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "various"
+  },
+  {
+    "kana": "うえ",
+    "kanji": "上",
+    "type": "adjective",
+    "meaning": "above, on top of"
+  },
+  {
+    "kana": "うしろ",
+    "kanji": "後ろ",
+    "type": "noun",
+    "meaning": "behind, rear"
+  },
+  {
+    "kana": "うすい",
+    "kanji": "薄い",
+    "type": "adjective",
+    "meaning": "thin, weak"
+  },
+  {
+    "kana": "うた",
+    "kanji": "歌",
+    "type": "noun",
+    "meaning": "song"
+  },
+  {
+    "kana": "うたう",
+    "kanji": "歌う",
+    "type": "verb",
+    "meaning": "to sing"
+  },
+  {
+    "kana": "うち",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "house (one's own)"
+  },
+  {
+    "kana": "うまれる",
+    "kanji": "生まれる",
+    "type": "verb",
+    "meaning": "to be born"
+  },
+  {
+    "kana": "うみ",
+    "kanji": "海",
+    "type": "noun",
+    "meaning": "sea, beach"
+  },
+  {
+    "kana": "うる",
+    "kanji": "売る",
+    "type": "verb",
+    "meaning": "to sell"
+  },
+  {
+    "kana": "うるさい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "noisy, loud, annoying"
+  },
+  {
+    "kana": "うわぎ",
+    "kanji": "上着",
+    "type": "noun",
+    "meaning": "coat, jacket"
+  },
+  {
+    "kana": "え",
+    "kanji": "絵",
+    "type": "noun",
+    "meaning": "picture, drawing, painting, sketch"
+  },
+  {
+    "kana": "えいが",
+    "kanji": "映画",
+    "type": "noun",
+    "meaning": "movie, film"
+  },
+  {
+    "kana": "えいがかん",
+    "kanji": "映画館",
+    "type": "noun",
+    "meaning": "movie theatre (theater), cinema"
+  },
+  {
+    "kana": "えいご",
+    "kanji": "英語",
+    "type": "noun",
+    "meaning": "the English language"
+  },
+  {
+    "kana": "ええ",
+    "kanji": "",
+    "type": "conjunction",
+    "meaning": "yes"
+  },
+  {
+    "kana": "えき",
+    "kanji": "駅",
+    "type": "noun",
+    "meaning": "station"
+  },
+  {
+    "kana": "エレベーター",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "elevator"
+  },
+  {
+    "kana": "～えん",
+    "kanji": "～円",
+    "type": "noun",
+    "meaning": "yen (currency)"
+  },
+  {
+    "kana": "えんぴつ",
+    "kanji": "鉛筆",
+    "type": "noun",
+    "meaning": "pencil"
+  },
+  {
+    "kana": "お～",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "honourable ～ (honorific)"
+  },
+  {
+    "kana": "おいしい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "delicious, tasty"
+  },
+  {
+    "kana": "おおい",
+    "kanji": "多い",
+    "type": "adjective",
+    "meaning": "many"
+  },
+  {
+    "kana": "おおきい",
+    "kanji": "大きい",
+    "type": "adjective",
+    "meaning": "big"
+  },
+  {
+    "kana": "おおきな",
+    "kanji": "大きな",
+    "type": "adjective",
+    "meaning": "big"
+  },
+  {
+    "kana": "おおぜい",
+    "kanji": "大勢",
+    "type": "noun",
+    "meaning": "great number of people"
+  },
+  {
+    "kana": "おかあさん",
+    "kanji": "お母さん",
+    "type": "noun",
+    "meaning": "(hon) mother"
+  },
+  {
+    "kana": "おかし",
+    "kanji": "お菓子",
+    "type": "noun",
+    "meaning": "confections, sweets, candy"
+  },
+  {
+    "kana": "おかね",
+    "kanji": "お金",
+    "type": "noun",
+    "meaning": "money"
+  },
+  {
+    "kana": "おきる",
+    "kanji": "起きる",
+    "type": "verb",
+    "meaning": "to get up, to rise"
+  },
+  {
+    "kana": "おく",
+    "kanji": "置く",
+    "type": "verb",
+    "meaning": "to put, to place"
+  },
+  {
+    "kana": "おくさん",
+    "kanji": "奥さん",
+    "type": "noun",
+    "meaning": "(hon) wife"
+  },
+  {
+    "kana": "おさけ",
+    "kanji": "お酒",
+    "type": "noun",
+    "meaning": "alcohol, sake (rice wine)"
+  },
+  {
+    "kana": "おさら",
+    "kanji": "お皿",
+    "type": "noun",
+    "meaning": "plate, dish"
+  },
+  {
+    "kana": "おじ・さん",
+    "kanji": "伯父/叔父・さん",
+    "type": "noun",
+    "meaning": "uncle, middle aged man"
+  },
+  {
+    "kana": "おじいさん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "grandfather, male senior citizen"
+  },
+  {
+    "kana": "おしえる",
+    "kanji": "教える",
+    "type": "verb",
+    "meaning": "to teach, to inform"
+  },
+  {
+    "kana": "おす",
+    "kanji": "押す",
+    "type": "verb",
+    "meaning": "to push, to press"
+  },
+  {
+    "kana": "おそい",
+    "kanji": "遅い",
+    "type": "adjective",
+    "meaning": "late, slow"
+  },
+  {
+    "kana": "おちゃ",
+    "kanji": "お茶",
+    "type": "noun",
+    "meaning": "tea (green)"
+  },
+  {
+    "kana": "おてあらい",
+    "kanji": "お手洗い",
+    "type": "noun",
+    "meaning": "toilet, lavatory, bathroom"
+  },
+  {
+    "kana": "おとうさん",
+    "kanji": "お父さん",
+    "type": "noun",
+    "meaning": "(hon) father"
+  },
+  {
+    "kana": "おとうと",
+    "kanji": "弟",
+    "type": "noun",
+    "meaning": "younger brother"
+  },
+  {
+    "kana": "おとこ",
+    "kanji": "男",
+    "type": "noun",
+    "meaning": "man"
+  },
+  {
+    "kana": "おとこのこ",
+    "kanji": "男の子",
+    "type": "noun",
+    "meaning": "boy"
+  },
+  {
+    "kana": "おととい",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "day before yesterday"
+  },
+  {
+    "kana": "おととし",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "year before last"
+  },
+  {
+    "kana": "おとな",
+    "kanji": "大人",
+    "type": "noun",
+    "meaning": "adult"
+  },
+  {
+    "kana": "おなか",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "stomach"
+  },
+  {
+    "kana": "おなじ",
+    "kanji": "同じ",
+    "type": "adjective",
+    "meaning": "same, identical, similar"
+  },
+  {
+    "kana": "おにいさん",
+    "kanji": "お兄さん",
+    "type": "noun",
+    "meaning": "(hon) older brother"
+  },
+  {
+    "kana": "おねえさん",
+    "kanji": "お姉さん",
+    "type": "noun",
+    "meaning": "(hon) older sister"
+  },
+  {
+    "kana": "おばさん",
+    "kanji": "伯母さん/叔母さん",
+    "type": "noun",
+    "meaning": "aunt"
+  },
+  {
+    "kana": "おばあさん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "grandmother, female senior-citizen"
+  },
+  {
+    "kana": "おふろ",
+    "kanji": "お風呂",
+    "type": "noun",
+    "meaning": "bath"
+  },
+  {
+    "kana": "おべんとう",
+    "kanji": "お弁当",
+    "type": "noun",
+    "meaning": "boxed lunch"
+  },
+  {
+    "kana": "おぼえる",
+    "kanji": "覚える",
+    "type": "verb",
+    "meaning": "to remember, to memorize"
+  },
+  {
+    "kana": "おまわりさん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "policeman (friendly term)"
+  },
+  {
+    "kana": "おもい",
+    "kanji": "重い",
+    "type": "adjective",
+    "meaning": "heavy"
+  },
+  {
+    "kana": "おもしろい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "interesting, amusing"
+  },
+  {
+    "kana": "およぐ",
+    "kanji": "泳ぐ",
+    "type": "verb",
+    "meaning": "to swim"
+  },
+  {
+    "kana": "おりる",
+    "kanji": "降りる",
+    "type": "verb",
+    "meaning": "to alight (eg from bus), to get off"
+  },
+  {
+    "kana": "おわる",
+    "kanji": "終る",
+    "type": "verb",
+    "meaning": "to finish, to close"
+  },
+  {
+    "kana": "おんがく",
+    "kanji": "音楽",
+    "type": "noun",
+    "meaning": "music"
+  },
+  {
+    "kana": "おんな",
+    "kanji": "女",
+    "type": "noun",
+    "meaning": "woman, girl, daughter"
+  },
+  {
+    "kana": "おんなのこ",
+    "kanji": "女の子",
+    "type": "noun",
+    "meaning": "girl"
+  },
+  {
+    "kana": "～かい",
+    "kanji": "～回",
+    "type": "noun",
+    "meaning": "counter for occurrences"
+  },
+  {
+    "kana": "～かい",
+    "kanji": "～階",
+    "type": "noun",
+    "meaning": "counter for storeys of a building"
+  },
+  {
+    "kana": "がいこく",
+    "kanji": "外国",
+    "type": "noun",
+    "meaning": "foreign country"
+  },
+  {
+    "kana": "がいこくじん",
+    "kanji": "外国人",
+    "type": "noun",
+    "meaning": "foreigner"
+  },
+  {
+    "kana": "かいしゃ",
+    "kanji": "会社",
+    "type": "noun",
+    "meaning": "company, corporation"
+  },
+  {
+    "kana": "かいだん",
+    "kanji": "階段",
+    "type": "noun",
+    "meaning": "stairs"
+  },
+  {
+    "kana": "かいもの",
+    "kanji": "買い物",
+    "type": "noun",
+    "meaning": "shopping"
+  },
+  {
+    "kana": "かう",
+    "kanji": "買う",
+    "type": "verb",
+    "meaning": "to buy"
+  },
+  {
+    "kana": "かえす",
+    "kanji": "返す",
+    "type": "verb",
+    "meaning": "to return something"
+  },
+  {
+    "kana": "かえる",
+    "kanji": "帰る",
+    "type": "verb",
+    "meaning": "to go home, to return"
+  },
+  {
+    "kana": "かお",
+    "kanji": "顔",
+    "type": "noun",
+    "meaning": "face (person)"
+  },
+  {
+    "kana": "かかる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to take (eg time, money)"
+  },
+  {
+    "kana": "かぎ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "key/s"
+  },
+  {
+    "kana": "かく",
+    "kanji": "書く",
+    "type": "verb",
+    "meaning": "to write"
+  },
+  {
+    "kana": "がくせい",
+    "kanji": "学生",
+    "type": "noun",
+    "meaning": "student"
+  },
+  {
+    "kana": "～かげつ",
+    "kanji": "～か月",
+    "type": "suffix",
+    "meaning": "(number of) months"
+  },
+  {
+    "kana": "かける",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to put on (eg glasses)"
+  },
+  {
+    "kana": "かける",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to dial/call (eg phone)"
+  },
+  {
+    "kana": "かさ",
+    "kanji": "傘",
+    "type": "noun",
+    "meaning": "umbrella"
+  },
+  {
+    "kana": "かす",
+    "kanji": "貸す",
+    "type": "verb",
+    "meaning": "to lend"
+  },
+  {
+    "kana": "かぜ",
+    "kanji": "風",
+    "type": "noun",
+    "meaning": "wind, breeze"
+  },
+  {
+    "kana": "かぜ",
+    "kanji": "風邪",
+    "type": "noun",
+    "meaning": "cold, illness"
+  },
+  {
+    "kana": "かた",
+    "kanji": "方",
+    "type": "noun",
+    "meaning": "person"
+  },
+  {
+    "kana": "かぞく",
+    "kanji": "家族",
+    "type": "noun",
+    "meaning": "family"
+  },
+  {
+    "kana": "かたかな",
+    "kanji": "片仮名",
+    "type": "noun",
+    "meaning": "katakana"
+  },
+  {
+    "kana": "～がつ",
+    "kanji": "～月",
+    "type": "suffix",
+    "meaning": "month of year"
+  },
+  {
+    "kana": "がっこう",
+    "kanji": "学校",
+    "type": "noun",
+    "meaning": "school"
+  },
+  {
+    "kana": "カップ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "cup"
+  },
+  {
+    "kana": "かてい",
+    "kanji": "家庭",
+    "type": "noun",
+    "meaning": "home, household"
+  },
+  {
+    "kana": "かど",
+    "kanji": "角",
+    "type": "noun",
+    "meaning": "corner (e.g. desk)"
+  },
+  {
+    "kana": "かばん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "bag, basket"
+  },
+  {
+    "kana": "かびん",
+    "kanji": "花瓶",
+    "type": "noun",
+    "meaning": "(flower) vase"
+  },
+  {
+    "kana": "かぶる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to wear, to put on (head)"
+  },
+  {
+    "kana": "かみ",
+    "kanji": "紙",
+    "type": "noun",
+    "meaning": "paper"
+  },
+  {
+    "kana": "カメラ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "camera"
+  },
+  {
+    "kana": "かようび",
+    "kanji": "火曜日",
+    "type": "noun",
+    "meaning": "Tuesday"
+  },
+  {
+    "kana": "からい",
+    "kanji": "辛い",
+    "type": "adjective",
+    "meaning": "spicy, salty"
+  },
+  {
+    "kana": "からだ",
+    "kanji": "体",
+    "type": "noun",
+    "meaning": "body"
+  },
+  {
+    "kana": "かりる",
+    "kanji": "借りる",
+    "type": "verb",
+    "meaning": "to borrow, to have a loan"
+  },
+  {
+    "kana": "～がる",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "feel"
+  },
+  {
+    "kana": "かるい",
+    "kanji": "軽い",
+    "type": "adjective",
+    "meaning": "light, non-serious, minor"
+  },
+  {
+    "kana": "カレー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "curry"
+  },
+  {
+    "kana": "カレンダー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "calendar"
+  },
+  {
+    "kana": "かわ",
+    "kanji": "川/河",
+    "type": "noun",
+    "meaning": "river"
+  },
+  {
+    "kana": "～がわ",
+    "kanji": "側",
+    "type": "suffix",
+    "meaning": "～ side"
+  },
+  {
+    "kana": "かわいい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "cute, charming"
+  },
+  {
+    "kana": "かんじ",
+    "kanji": "漢字",
+    "type": "noun",
+    "meaning": "kanji, Chinese character"
+  },
+  {
+    "kana": "き",
+    "kanji": "木",
+    "type": "noun",
+    "meaning": "tree, wood"
+  },
+  {
+    "kana": "きいろ",
+    "kanji": "黄色",
+    "type": "noun",
+    "meaning": "yellow"
+  },
+  {
+    "kana": "きいろい",
+    "kanji": "黄色い",
+    "type": "adjective",
+    "meaning": "yellow"
+  },
+  {
+    "kana": "きえる",
+    "kanji": "消える",
+    "type": "verb",
+    "meaning": "to go out, to vanish"
+  },
+  {
+    "kana": "きく",
+    "kanji": "聞く",
+    "type": "verb",
+    "meaning": "to hear, to listen, to ask"
+  },
+  {
+    "kana": "きた",
+    "kanji": "北",
+    "type": "noun",
+    "meaning": "north"
+  },
+  {
+    "kana": "ギター",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "guitar"
+  },
+  {
+    "kana": "きたない",
+    "kanji": "汚い",
+    "type": "adjective",
+    "meaning": "dirty, messy"
+  },
+  {
+    "kana": "きっさてん",
+    "kanji": "喫茶店",
+    "type": "noun",
+    "meaning": "coffee lounge"
+  },
+  {
+    "kana": "きって",
+    "kanji": "切手",
+    "type": "noun",
+    "meaning": "stamp (eg. postage)"
+  },
+  {
+    "kana": "きっぷ",
+    "kanji": "切符",
+    "type": "noun",
+    "meaning": "ticket"
+  },
+  {
+    "kana": "きのう",
+    "kanji": "昨日",
+    "type": "noun",
+    "meaning": "yesterday"
+  },
+  {
+    "kana": "きゅう",
+    "kanji": "九",
+    "type": "number",
+    "meaning": "nine"
+  },
+  {
+    "kana": "ぎゅうにく",
+    "kanji": "牛肉",
+    "type": "noun",
+    "meaning": "beef"
+  },
+  {
+    "kana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "type": "noun",
+    "meaning": "milk"
+  },
+  {
+    "kana": "きょう",
+    "kanji": "今日",
+    "type": "noun",
+    "meaning": "today, this day"
+  },
+  {
+    "kana": "きょうしつ",
+    "kanji": "教室",
+    "type": "noun",
+    "meaning": "classroom"
+  },
+  {
+    "kana": "きょうだい",
+    "kanji": "兄弟",
+    "type": "noun",
+    "meaning": "siblings (brothers and sisters)"
+  },
+  {
+    "kana": "きょねん",
+    "kanji": "去年",
+    "type": "noun",
+    "meaning": "last year"
+  },
+  {
+    "kana": "きらい",
+    "kanji": "嫌い",
+    "type": "adjective",
+    "meaning": "dislike, hate"
+  },
+  {
+    "kana": "きる",
+    "kanji": "切る",
+    "type": "verb",
+    "meaning": "to cut, to chop"
+  },
+  {
+    "kana": "きる",
+    "kanji": "着る",
+    "type": "verb",
+    "meaning": "to wear, to put on (from shoulders down)"
+  },
+  {
+    "kana": "きれい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "pretty, clean, nice, tidy"
+  },
+  {
+    "kana": "キロ/キログラム",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "kilo (kilogram)"
+  },
+  {
+    "kana": "キロ/キロメートル",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "kilo (kilometre)"
+  },
+  {
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "type": "noun",
+    "meaning": "bank"
+  },
+  {
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "type": "noun",
+    "meaning": "Friday"
+  },
+  {
+    "kana": "く",
+    "kanji": "九",
+    "type": "number",
+    "meaning": "nine"
+  },
+  {
+    "kana": "くすり",
+    "kanji": "薬",
+    "type": "noun",
+    "meaning": "medicine"
+  },
+  {
+    "kana": "ください",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "(with te-form verb) please do for me"
+  },
+  {
+    "kana": "くだもの",
+    "kanji": "果物",
+    "type": "noun",
+    "meaning": "fruit"
+  },
+  {
+    "kana": "くち",
+    "kanji": "口",
+    "type": "noun",
+    "meaning": "mouth, orifice, opening"
+  },
+  {
+    "kana": "くつ",
+    "kanji": "靴",
+    "type": "noun",
+    "meaning": "shoes, footwear"
+  },
+  {
+    "kana": "くつした",
+    "kanji": "靴下",
+    "type": "noun",
+    "meaning": "socks"
+  },
+  {
+    "kana": "くに",
+    "kanji": "国",
+    "type": "noun",
+    "meaning": "country"
+  },
+  {
+    "kana": "くもり",
+    "kanji": "曇り",
+    "type": "verb",
+    "meaning": "cloudiness, cloudy weather"
+  },
+  {
+    "kana": "くもる",
+    "kanji": "曇る",
+    "type": "verb",
+    "meaning": "to become cloudy, to become dim"
+  },
+  {
+    "kana": "くらい",
+    "kanji": "暗い",
+    "type": "adjective",
+    "meaning": "dark, gloomy"
+  },
+  {
+    "kana": "～くらい/ぐらい",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "approximate (quantity)"
+  },
+  {
+    "kana": "クラス",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "class"
+  },
+  {
+    "kana": "グラム",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "gram"
+  },
+  {
+    "kana": "くる",
+    "kanji": "来る",
+    "type": "verb",
+    "meaning": "to come"
+  },
+  {
+    "kana": "くるま",
+    "kanji": "車",
+    "type": "noun",
+    "meaning": "car, vehicle"
+  },
+  {
+    "kana": "くろ",
+    "kanji": "黒",
+    "type": "noun",
+    "meaning": "black"
+  },
+  {
+    "kana": "くろい",
+    "kanji": "黒い",
+    "type": "adjective",
+    "meaning": "black"
+  },
+  {
+    "kana": "けいかん",
+    "kanji": "警官",
+    "type": "noun",
+    "meaning": "policeman"
+  },
+  {
+    "kana": "けさ",
+    "kanji": "今朝",
+    "type": "noun",
+    "meaning": "this morning"
+  },
+  {
+    "kana": "けす",
+    "kanji": "消す",
+    "type": "verb",
+    "meaning": "to erase, to delete, to turn off power"
+  },
+  {
+    "kana": "けっこう",
+    "kanji": "結構",
+    "type": "adjective",
+    "meaning": "nice, enough"
+  },
+  {
+    "kana": "けっこん（する）",
+    "kanji": "結婚",
+    "type": "adjective",
+    "meaning": "marriage"
+  },
+  {
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "type": "noun",
+    "meaning": "Monday"
+  },
+  {
+    "kana": "げんかん",
+    "kanji": "玄関",
+    "type": "noun",
+    "meaning": "entrance-way, entry hall"
+  },
+  {
+    "kana": "げんき",
+    "kanji": "元気",
+    "type": "adjective",
+    "meaning": "health"
+  },
+  {
+    "kana": "～こ",
+    "kanji": "～個",
+    "type": "noun",
+    "meaning": "counter for small items"
+  },
+  {
+    "kana": "ご",
+    "kanji": "五",
+    "type": "number",
+    "meaning": "five"
+  },
+  {
+    "kana": "～ご",
+    "kanji": "～語",
+    "type": "noun",
+    "meaning": "word, language"
+  },
+  {
+    "kana": "こうえん",
+    "kanji": "公園",
+    "type": "noun",
+    "meaning": "(public) park"
+  },
+  {
+    "kana": "こうさてん",
+    "kanji": "交差点",
+    "type": "noun",
+    "meaning": "intersection"
+  },
+  {
+    "kana": "こうちゃ",
+    "kanji": "紅茶",
+    "type": "noun",
+    "meaning": "black tea"
+  },
+  {
+    "kana": "こうばん",
+    "kanji": "交番",
+    "type": "noun",
+    "meaning": "police box"
+  },
+  {
+    "kana": "こえ",
+    "kanji": "声",
+    "type": "noun",
+    "meaning": "voice"
+  },
+  {
+    "kana": "コート",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "coat"
+  },
+  {
+    "kana": "コーヒー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "coffee"
+  },
+  {
+    "kana": "ここ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "here, this place"
+  },
+  {
+    "kana": "ごご",
+    "kanji": "午後",
+    "type": "noun",
+    "meaning": "afternoon, P.M."
+  },
+  {
+    "kana": "ここのか",
+    "kanji": "九日",
+    "type": "noun",
+    "meaning": "nine days, the ninth day (of the month)"
+  },
+  {
+    "kana": "ここのつ",
+    "kanji": "九つ",
+    "type": "noun",
+    "meaning": "nine"
+  },
+  {
+    "kana": "ごぜん",
+    "kanji": "午前",
+    "type": "noun",
+    "meaning": "morning, A.M."
+  },
+  {
+    "kana": "こたえる",
+    "kanji": "答える",
+    "type": "verb",
+    "meaning": "to answer, to reply"
+  },
+  {
+    "kana": "こちら",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "this eg person, way"
+  },
+  {
+    "kana": "こっち",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "this eg person, way"
+  },
+  {
+    "kana": "コップ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "cup"
+  },
+  {
+    "kana": "ことし",
+    "kanji": "今年",
+    "type": "noun",
+    "meaning": "this year"
+  },
+  {
+    "kana": "ことば",
+    "kanji": "言葉",
+    "type": "noun",
+    "meaning": "word"
+  },
+  {
+    "kana": "こども",
+    "kanji": "子供",
+    "type": "noun",
+    "meaning": "child, children"
+  },
+  {
+    "kana": "この",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "this"
+  },
+  {
+    "kana": "ごはん",
+    "kanji": "御飯",
+    "type": "noun",
+    "meaning": "rice (cooked), meal"
+  },
+  {
+    "kana": "コピー・する",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "to copy"
+  },
+  {
+    "kana": "こまる",
+    "kanji": "困る",
+    "type": "verb",
+    "meaning": "to be worried, to be bothered"
+  },
+  {
+    "kana": "これ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "this"
+  },
+  {
+    "kana": "～ころ/～ごろ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "about, approximately (time)"
+  },
+  {
+    "kana": "こんげつ",
+    "kanji": "今月",
+    "type": "noun",
+    "meaning": "this month"
+  },
+  {
+    "kana": "こんしゅう",
+    "kanji": "今週",
+    "type": "noun",
+    "meaning": "this week"
+  },
+  {
+    "kana": "こんな",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "such, like this"
+  },
+  {
+    "kana": "こんばん",
+    "kanji": "今晩",
+    "type": "noun",
+    "meaning": "tonight, this evening"
+  },
+  {
+    "kana": "さあ",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "come now, well"
+  },
+  {
+    "kana": "～さい",
+    "kanji": "～歳",
+    "type": "suffix",
+    "meaning": "～years-old"
+  },
+  {
+    "kana": "さいふ",
+    "kanji": "財布",
+    "type": "noun",
+    "meaning": "wallet"
+  },
+  {
+    "kana": "さかな",
+    "kanji": "魚",
+    "type": "noun",
+    "meaning": "fish"
+  },
+  {
+    "kana": "さき",
+    "kanji": "先",
+    "type": "adjective",
+    "meaning": "the future, former, previous"
+  },
+  {
+    "kana": "さく",
+    "kanji": "咲く",
+    "type": "verb",
+    "meaning": "to bloom"
+  },
+  {
+    "kana": "さくぶん",
+    "kanji": "作文",
+    "type": "noun",
+    "meaning": "composition, writing"
+  },
+  {
+    "kana": "さす",
+    "kanji": "差す",
+    "type": "verb",
+    "meaning": "to raise (stretch out) hands, to raise (eg umbrella)"
+  },
+  {
+    "kana": "～さつ",
+    "kanji": "～冊",
+    "type": "noun",
+    "meaning": "counter for books"
+  },
+  {
+    "kana": "ざっし",
+    "kanji": "雑誌",
+    "type": "noun",
+    "meaning": "magazine"
+  },
+  {
+    "kana": "さとう",
+    "kanji": "砂糖",
+    "type": "noun",
+    "meaning": "sugar"
+  },
+  {
+    "kana": "さむい",
+    "kanji": "寒い",
+    "type": "adjective",
+    "meaning": "cold (e.g. weather)"
+  },
+  {
+    "kana": "さらいねん",
+    "kanji": "さ来年",
+    "type": "noun",
+    "meaning": "year after next"
+  },
+  {
+    "kana": "～さん",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "Mr or Mrs"
+  },
+  {
+    "kana": "さん",
+    "kanji": "三",
+    "type": "number",
+    "meaning": "three"
+  },
+  {
+    "kana": "さんぽ（する）",
+    "kanji": "散歩",
+    "type": "noun",
+    "meaning": "walk, stroll"
+  },
+  {
+    "kana": "し",
+    "kanji": "四",
+    "type": "number",
+    "meaning": "four"
+  },
+  {
+    "kana": "～じ",
+    "kanji": "～時",
+    "type": "suffix",
+    "meaning": "time (～ O'clock)"
+  },
+  {
+    "kana": "しお",
+    "kanji": "塩",
+    "type": "noun",
+    "meaning": "salt"
+  },
+  {
+    "kana": "しかし",
+    "kanji": "",
+    "type": "conjunction",
+    "meaning": "however, but"
+  },
+  {
+    "kana": "じかん",
+    "kanji": "時間",
+    "type": "noun",
+    "meaning": "time"
+  },
+  {
+    "kana": "～じかん",
+    "kanji": "～時間",
+    "type": "suffix",
+    "meaning": "～hours"
+  },
+  {
+    "kana": "しごと",
+    "kanji": "仕事",
+    "type": "adjective",
+    "meaning": "work, occupation, employment"
+  },
+  {
+    "kana": "じしょ",
+    "kanji": "辞書",
+    "type": "noun",
+    "meaning": "dictionary"
+  },
+  {
+    "kana": "しずか",
+    "kanji": "静か",
+    "type": "adjective",
+    "meaning": "quiet, peaceful"
+  },
+  {
+    "kana": "した",
+    "kanji": "下",
+    "type": "noun",
+    "meaning": "under, below, beneath"
+  },
+  {
+    "kana": "しち",
+    "kanji": "七",
+    "type": "number",
+    "meaning": "seven"
+  },
+  {
+    "kana": "しつもん",
+    "kanji": "質問",
+    "type": "noun",
+    "meaning": "question, inquiry"
+  },
+  {
+    "kana": "じてんしゃ",
+    "kanji": "自転車",
+    "type": "noun",
+    "meaning": "bicycle"
+  },
+  {
+    "kana": "じどうしゃ",
+    "kanji": "自動車",
+    "type": "noun",
+    "meaning": "automobile"
+  },
+  {
+    "kana": "しぬ",
+    "kanji": "死ぬ",
+    "type": "verb",
+    "meaning": "to die"
+  },
+  {
+    "kana": "じびき",
+    "kanji": "字引",
+    "type": "noun",
+    "meaning": "dictionary"
+  },
+  {
+    "kana": "じぶん",
+    "kanji": "自分",
+    "type": "noun",
+    "meaning": "myself, oneself"
+  },
+  {
+    "kana": "しまる",
+    "kanji": "閉まる",
+    "type": "verb",
+    "meaning": "to close, to be closed"
+  },
+  {
+    "kana": "しめる",
+    "kanji": "閉める",
+    "type": "verb",
+    "meaning": "to close, to shut"
+  },
+  {
+    "kana": "しめる",
+    "kanji": "締める",
+    "type": "verb",
+    "meaning": "to tie, to fasten"
+  },
+  {
+    "kana": "じゃ/じゃあ",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "well, well then"
+  },
+  {
+    "kana": "しゃしん",
+    "kanji": "写真",
+    "type": "noun",
+    "meaning": "photograph"
+  },
+  {
+    "kana": "シャツ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "shirt, singlet"
+  },
+  {
+    "kana": "シャワー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "shower"
+  },
+  {
+    "kana": "じゅう",
+    "kanji": "十",
+    "type": "number",
+    "meaning": "ten"
+  },
+  {
+    "kana": "～じゅう",
+    "kanji": "～中",
+    "type": "suffix",
+    "meaning": "during, while"
+  },
+  {
+    "kana": "～しゅうかん",
+    "kanji": "～週間",
+    "type": "suffix",
+    "meaning": "～weeks"
+  },
+  {
+    "kana": "じゅぎょう",
+    "kanji": "授業",
+    "type": "noun",
+    "meaning": "lesson, class work"
+  },
+  {
+    "kana": "しゅくだい",
+    "kanji": "宿題",
+    "type": "noun",
+    "meaning": "homework"
+  },
+  {
+    "kana": "じょうず",
+    "kanji": "上手",
+    "type": "adjective",
+    "meaning": "skill, skillful, dexterity"
+  },
+  {
+    "kana": "じょうぶ",
+    "kanji": "丈夫",
+    "type": "adjective",
+    "meaning": "strong, solid, durable"
+  },
+  {
+    "kana": "しょうゆ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "soy sauce"
+  },
+  {
+    "kana": "しょくどう",
+    "kanji": "食堂",
+    "type": "noun",
+    "meaning": "cafeteria, dining hall"
+  },
+  {
+    "kana": "しる",
+    "kanji": "知る",
+    "type": "verb",
+    "meaning": "to know, to understand"
+  },
+  {
+    "kana": "しろ",
+    "kanji": "白",
+    "type": "noun",
+    "meaning": "white"
+  },
+  {
+    "kana": "しろい",
+    "kanji": "白い",
+    "type": "adjective",
+    "meaning": "white"
+  },
+  {
+    "kana": "～にん",
+    "kanji": "～人",
+    "type": "suffix",
+    "meaning": "counter for people"
+  },
+  {
+    "kana": "しんぶん",
+    "kanji": "新聞",
+    "type": "noun",
+    "meaning": "newspaper"
+  },
+  {
+    "kana": "すいようび",
+    "kanji": "水曜日",
+    "type": "noun",
+    "meaning": "Wednesday"
+  },
+  {
+    "kana": "すう",
+    "kanji": "吸う",
+    "type": "verb",
+    "meaning": "to smoke, to breathe in, to suck"
+  },
+  {
+    "kana": "スカート",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "skirt"
+  },
+  {
+    "kana": "すき",
+    "kanji": "好き",
+    "type": "adjective",
+    "meaning": "liking, fondness, love"
+  },
+  {
+    "kana": "～すぎ",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "to exceed, ～ too much"
+  },
+  {
+    "kana": "すくない",
+    "kanji": "少ない",
+    "type": "adjective",
+    "meaning": "a few, scarce"
+  },
+  {
+    "kana": "すぐ・に",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "immediately, instantly"
+  },
+  {
+    "kana": "すこし",
+    "kanji": "少し",
+    "type": "verb",
+    "meaning": "little, few"
+  },
+  {
+    "kana": "すずしい",
+    "kanji": "涼しい",
+    "type": "adjective",
+    "meaning": "cool, refreshing"
+  },
+  {
+    "kana": "～ずつ",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "at a time, gradually"
+  },
+  {
+    "kana": "ストーブ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "heater (lit: stove)"
+  },
+  {
+    "kana": "スプーン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "spoon"
+  },
+  {
+    "kana": "スポーツ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "sport"
+  },
+  {
+    "kana": "ズボン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "trousers (fr: jupon)"
+  },
+  {
+    "kana": "すむ",
+    "kanji": "住む",
+    "type": "verb",
+    "meaning": "to reside, to live in"
+  },
+  {
+    "kana": "スリッパ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "slippers"
+  },
+  {
+    "kana": "する",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "to do, to try"
+  },
+  {
+    "kana": "すわる",
+    "kanji": "座る",
+    "type": "verb",
+    "meaning": "to sit"
+  },
+  {
+    "kana": "せい",
+    "kanji": "背",
+    "type": "noun",
+    "meaning": "height, stature"
+  },
+  {
+    "kana": "せいと",
+    "kanji": "生徒",
+    "type": "noun",
+    "meaning": "pupil"
+  },
+  {
+    "kana": "セーター",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "sweater, jumper"
+  },
+  {
+    "kana": "せっけん",
+    "kanji": "石鹸",
+    "type": "noun",
+    "meaning": "soap"
+  },
+  {
+    "kana": "せびろ",
+    "kanji": "背広",
+    "type": "noun",
+    "meaning": "business suit"
+  },
+  {
+    "kana": "せまい",
+    "kanji": "狭い",
+    "type": "adjective",
+    "meaning": "narrow, confined, small"
+  },
+  {
+    "kana": "ゼロ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "zero"
+  },
+  {
+    "kana": "せん",
+    "kanji": "千",
+    "type": "noun",
+    "meaning": "thousand, many"
+  },
+  {
+    "kana": "せんげつ",
+    "kanji": "先月",
+    "type": "noun",
+    "meaning": "last month"
+  },
+  {
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "type": "noun",
+    "meaning": "last week, the week before"
+  },
+  {
+    "kana": "せんせい",
+    "kanji": "先生",
+    "type": "noun",
+    "meaning": "teacher, master, doctor"
+  },
+  {
+    "kana": "せんたく",
+    "kanji": "洗濯",
+    "type": "noun",
+    "meaning": "washing, laundry"
+  },
+  {
+    "kana": "ぜんぶ",
+    "kanji": "全部",
+    "type": "noun",
+    "meaning": "all, entire, whole"
+  },
+  {
+    "kana": "そう/そうです",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "appears, to be the case"
+  },
+  {
+    "kana": "そうじ（する）",
+    "kanji": "掃除",
+    "type": "noun",
+    "meaning": "cleaning, sweeping"
+  },
+  {
+    "kana": "そうして/そして",
+    "kanji": "",
+    "type": "conjunction",
+    "meaning": "and, like that"
+  },
+  {
+    "kana": "そこ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "that place, there"
+  },
+  {
+    "kana": "そちら",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "over there"
+  },
+  {
+    "kana": "そっち",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "over there"
+  },
+  {
+    "kana": "そと",
+    "kanji": "外",
+    "type": "noun",
+    "meaning": "outside, exterior"
+  },
+  {
+    "kana": "その",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "that"
+  },
+  {
+    "kana": "そば",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "near, close, beside"
+  },
+  {
+    "kana": "そら",
+    "kanji": "空",
+    "type": "noun",
+    "meaning": "sky"
+  },
+  {
+    "kana": "それ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "it, that"
+  },
+  {
+    "kana": "それから",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "and then, after that"
+  },
+  {
+    "kana": "それでは",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "in that situation, well then..."
+  },
+  {
+    "kana": "～だい",
+    "kanji": "～台",
+    "type": "suffix",
+    "meaning": "counter for vehicles/machines"
+  },
+  {
+    "kana": "だいがく",
+    "kanji": "大学",
+    "type": "noun",
+    "meaning": "university"
+  },
+  {
+    "kana": "たいしかん",
+    "kanji": "大使館",
+    "type": "noun",
+    "meaning": "embassy"
+  },
+  {
+    "kana": "だいじょうぶ",
+    "kanji": "大丈夫",
+    "type": "adjective",
+    "meaning": "safe, all right, O.K."
+  },
+  {
+    "kana": "だいすき",
+    "kanji": "大好き",
+    "type": "adjective",
+    "meaning": "very likeable, like very much"
+  },
+  {
+    "kana": "たいせつ",
+    "kanji": "大切",
+    "type": "adjective",
+    "meaning": "important"
+  },
+  {
+    "kana": "だいどころ",
+    "kanji": "台所",
+    "type": "noun",
+    "meaning": "kitchen"
+  },
+  {
+    "kana": "たいへん",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "very"
+  },
+  {
+    "kana": "たいへん",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "difficult situation, tough situation"
+  },
+  {
+    "kana": "たかい",
+    "kanji": "高い",
+    "type": "adjective",
+    "meaning": "tall, high"
+  },
+  {
+    "kana": "たかい",
+    "kanji": "高い",
+    "type": "adjective",
+    "meaning": "expensive"
+  },
+  {
+    "kana": "～だけ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "only ～, just ～"
+  },
+  {
+    "kana": "たくさん",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "many, a lot, much"
+  },
+  {
+    "kana": "タクシー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "taxi"
+  },
+  {
+    "kana": "だす",
+    "kanji": "出す",
+    "type": "verb",
+    "meaning": "to put out, to send"
+  },
+  {
+    "kana": "～たち",
+    "kanji": "",
+    "type": "suffix",
+    "meaning": "plural suffix"
+  },
+  {
+    "kana": "たつ",
+    "kanji": "立つ",
+    "type": "verb",
+    "meaning": "to stand"
+  },
+  {
+    "kana": "たて",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "length, height"
+  },
+  {
+    "kana": "たてもの",
+    "kanji": "建物",
+    "type": "noun",
+    "meaning": "building"
+  },
+  {
+    "kana": "たのしい",
+    "kanji": "楽しい",
+    "type": "adjective",
+    "meaning": "enjoyable, fun"
+  },
+  {
+    "kana": "たのむ",
+    "kanji": "頼む",
+    "type": "verb",
+    "meaning": "to request, to ask"
+  },
+  {
+    "kana": "たばこ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "tobacco, cigarettes"
+  },
+  {
+    "kana": "たぶん",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "perhaps, probably"
+  },
+  {
+    "kana": "たべもの",
+    "kanji": "食べ物",
+    "type": "noun",
+    "meaning": "food"
+  },
+  {
+    "kana": "たべる",
+    "kanji": "食べる",
+    "type": "verb",
+    "meaning": "to eat"
+  },
+  {
+    "kana": "たまご",
+    "kanji": "卵",
+    "type": "noun",
+    "meaning": "egg(s)"
+  },
+  {
+    "kana": "だれ",
+    "kanji": "誰",
+    "type": "noun",
+    "meaning": "who"
+  },
+  {
+    "kana": "だれか",
+    "kanji": "誰か",
+    "type": "noun",
+    "meaning": "someone, somebody"
+  },
+  {
+    "kana": "たんじょうび",
+    "kanji": "誕生日",
+    "type": "noun",
+    "meaning": "birthday"
+  },
+  {
+    "kana": "だんだん",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "gradually, by degrees"
+  },
+  {
+    "kana": "ちいさい",
+    "kanji": "小さい",
+    "type": "adjective",
+    "meaning": "small, little"
+  },
+  {
+    "kana": "ちいさな",
+    "kanji": "小さな",
+    "type": "adjective",
+    "meaning": "small, little"
+  },
+  {
+    "kana": "ちかい",
+    "kanji": "近い",
+    "type": "adjective",
+    "meaning": "near, close by, short"
+  },
+  {
+    "kana": "ちがう",
+    "kanji": "違う",
+    "type": "verb",
+    "meaning": "to differ (from)"
+  },
+  {
+    "kana": "ちかく",
+    "kanji": "近く",
+    "type": "noun",
+    "meaning": "near"
+  },
+  {
+    "kana": "ちかてつ",
+    "kanji": "地下鉄",
+    "type": "noun",
+    "meaning": "underground train, subway"
+  },
+  {
+    "kana": "ちず",
+    "kanji": "地図",
+    "type": "noun",
+    "meaning": "map"
+  },
+  {
+    "kana": "ちち",
+    "kanji": "父",
+    "type": "noun",
+    "meaning": "(one's own) father"
+  },
+  {
+    "kana": "ちゃいろ",
+    "kanji": "茶色",
+    "type": "noun",
+    "meaning": "brown"
+  },
+  {
+    "kana": "ちゃわん",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "rice bowl"
+  },
+  {
+    "kana": "～ちゅう",
+    "kanji": "～中",
+    "type": "suffix",
+    "meaning": "during, while ～ing"
+  },
+  {
+    "kana": "ちょうど",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "just, right, exactly"
+  },
+  {
+    "kana": "ちょっと",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "a little, somewhat"
+  },
+  {
+    "kana": "ついたち",
+    "kanji": "一日",
+    "type": "noun",
+    "meaning": "for one day, first of month"
+  },
+  {
+    "kana": "つかう",
+    "kanji": "使う",
+    "type": "verb",
+    "meaning": "to use"
+  },
+  {
+    "kana": "つかれる",
+    "kanji": "疲れる",
+    "type": "verb",
+    "meaning": "to get tired, to tire"
+  },
+  {
+    "kana": "つぎ",
+    "kanji": "次",
+    "type": "noun",
+    "meaning": "next"
+  },
+  {
+    "kana": "つく",
+    "kanji": "着く",
+    "type": "verb",
+    "meaning": "to arrive at, to reach"
+  },
+  {
+    "kana": "つくえ",
+    "kanji": "机",
+    "type": "noun",
+    "meaning": "desk"
+  },
+  {
+    "kana": "つくる",
+    "kanji": "作る",
+    "type": "verb",
+    "meaning": "to make, to create"
+  },
+  {
+    "kana": "つける",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to turn on (eg a light)"
+  },
+  {
+    "kana": "つとめる",
+    "kanji": "勤める",
+    "type": "verb",
+    "meaning": "to serve, to work (for)"
+  },
+  {
+    "kana": "つまらない",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "insignificant, boring"
+  },
+  {
+    "kana": "つめたい",
+    "kanji": "冷たい",
+    "type": "adjective",
+    "meaning": "cold (to the touch)"
+  },
+  {
+    "kana": "つよい",
+    "kanji": "強い",
+    "type": "adjective",
+    "meaning": "strong, powerful"
+  },
+  {
+    "kana": "て",
+    "kanji": "手",
+    "type": "noun",
+    "meaning": "hand"
+  },
+  {
+    "kana": "テープ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "tape"
+  },
+  {
+    "kana": "テープレコーダー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "tape recorder"
+  },
+  {
+    "kana": "テーブル",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "table"
+  },
+  {
+    "kana": "でかける",
+    "kanji": "出かける",
+    "type": "verb",
+    "meaning": "to depart, to go out"
+  },
+  {
+    "kana": "てがみ",
+    "kanji": "手紙",
+    "type": "noun",
+    "meaning": "letter"
+  },
+  {
+    "kana": "できる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to be able to"
+  },
+  {
+    "kana": "でぐち",
+    "kanji": "出口",
+    "type": "noun",
+    "meaning": "exit"
+  },
+  {
+    "kana": "テスト",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "test"
+  },
+  {
+    "kana": "では",
+    "kanji": "",
+    "type": "expression",
+    "meaning": "with that..."
+  },
+  {
+    "kana": "デパート",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "department store"
+  },
+  {
+    "kana": "でも",
+    "kanji": "",
+    "type": "conjunction",
+    "meaning": "but, however"
+  },
+  {
+    "kana": "でる",
+    "kanji": "出る",
+    "type": "verb",
+    "meaning": "to appear, to leave"
+  },
+  {
+    "kana": "テレビ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "television, TV"
+  },
+  {
+    "kana": "てんき",
+    "kanji": "天気",
+    "type": "noun",
+    "meaning": "weather"
+  },
+  {
+    "kana": "でんき",
+    "kanji": "電気",
+    "type": "noun",
+    "meaning": "electricity, (electric) light"
+  },
+  {
+    "kana": "でんしゃ",
+    "kanji": "電車",
+    "type": "noun",
+    "meaning": "electric train"
+  },
+  {
+    "kana": "でんわ",
+    "kanji": "電話",
+    "type": "noun",
+    "meaning": "telephone"
+  },
+  {
+    "kana": "と",
+    "kanji": "戸",
+    "type": "noun",
+    "meaning": "door (Japanese style)"
+  },
+  {
+    "kana": "～ど",
+    "kanji": "～度",
+    "type": "suffix",
+    "meaning": "counter for occurrences"
+  },
+  {
+    "kana": "ドア",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "door (Western style)"
+  },
+  {
+    "kana": "トイレ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "toilet"
+  },
+  {
+    "kana": "どう",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "how, in what way"
+  },
+  {
+    "kana": "どうして",
+    "kanji": "",
+    "type": "adverb",
+    "meaning": "why?, for what reason"
+  },
+  {
+    "kana": "どうぞ",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "please, kindly, by all means"
+  },
+  {
+    "kana": "どうぶつ",
+    "kanji": "動物",
+    "type": "noun",
+    "meaning": "animal"
+  },
+  {
+    "kana": "どうも",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "thanks, very"
+  },
+  {
+    "kana": "とお",
+    "kanji": "十",
+    "type": "number",
+    "meaning": "ten"
+  },
+  {
+    "kana": "とおい",
+    "kanji": "遠い",
+    "type": "adjective",
+    "meaning": "far, distant"
+  },
+  {
+    "kana": "とおか",
+    "kanji": "十日",
+    "type": "noun",
+    "meaning": "ten days, the tenth (day of the month)"
+  },
+  {
+    "kana": "～とき",
+    "kanji": "～時",
+    "type": "verb",
+    "meaning": "at the time of ～"
+  },
+  {
+    "kana": "ときどき",
+    "kanji": "時々",
+    "type": "verb",
+    "meaning": "sometimes"
+  },
+  {
+    "kana": "とけい",
+    "kanji": "時計",
+    "type": "noun",
+    "meaning": "watch, clock"
+  },
+  {
+    "kana": "どこ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "where, what place"
+  },
+  {
+    "kana": "ところ",
+    "kanji": "所",
+    "type": "noun",
+    "meaning": "place"
+  },
+  {
+    "kana": "とし",
+    "kanji": "年",
+    "type": "noun",
+    "meaning": "year, age"
+  },
+  {
+    "kana": "としょかん",
+    "kanji": "図書館",
+    "type": "noun",
+    "meaning": "library"
+  },
+  {
+    "kana": "どちら",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "which, which way"
+  },
+  {
+    "kana": "どっち",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "which one, which way"
+  },
+  {
+    "kana": "とても",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "very"
+  },
+  {
+    "kana": "どなた",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "who"
+  },
+  {
+    "kana": "となり",
+    "kanji": "隣",
+    "type": "noun",
+    "meaning": "next to, next door to"
+  },
+  {
+    "kana": "どの",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "which"
+  },
+  {
+    "kana": "とぶ",
+    "kanji": "飛ぶ",
+    "type": "verb",
+    "meaning": "to fly, to hop"
+  },
+  {
+    "kana": "とまる",
+    "kanji": "止まる",
+    "type": "verb",
+    "meaning": "to come to a halt"
+  },
+  {
+    "kana": "ともだち",
+    "kanji": "友達",
+    "type": "noun",
+    "meaning": "friend"
+  },
+  {
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "type": "noun",
+    "meaning": "Saturday"
+  },
+  {
+    "kana": "とり",
+    "kanji": "鳥",
+    "type": "noun",
+    "meaning": "bird"
+  },
+  {
+    "kana": "とりにく",
+    "kanji": "とり肉",
+    "type": "noun",
+    "meaning": "chicken meat"
+  },
+  {
+    "kana": "とる",
+    "kanji": "取る",
+    "type": "verb",
+    "meaning": "to take"
+  },
+  {
+    "kana": "とる",
+    "kanji": "撮る",
+    "type": "verb",
+    "meaning": "to take (a photo)"
+  },
+  {
+    "kana": "どれ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "which (of three or more)"
+  },
+  {
+    "kana": "どんな",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "what, what kind of"
+  },
+  {
+    "kana": "ない",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "there isn't, doesn't have"
+  },
+  {
+    "kana": "ナイフ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "knife"
+  },
+  {
+    "kana": "なか",
+    "kanji": "中",
+    "type": "noun",
+    "meaning": "inside, middle, among"
+  },
+  {
+    "kana": "ながい",
+    "kanji": "長い",
+    "type": "adjective",
+    "meaning": "long"
+  },
+  {
+    "kana": "～ながら",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "while ~ing, during, although"
+  },
+  {
+    "kana": "なく",
+    "kanji": "鳴く",
+    "type": "verb",
+    "meaning": "to sing (bird), to make sound (animal)"
+  },
+  {
+    "kana": "なくす",
+    "kanji": "無くす",
+    "type": "verb",
+    "meaning": "to lose something"
+  },
+  {
+    "kana": "なぜ",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "why"
+  },
+  {
+    "kana": "なつ",
+    "kanji": "夏",
+    "type": "noun",
+    "meaning": "summer"
+  },
+  {
+    "kana": "なつやすみ",
+    "kanji": "夏休み",
+    "type": "noun",
+    "meaning": "summer vacation, summer holiday"
+  },
+  {
+    "kana": "～など",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "et cetera"
+  },
+  {
+    "kana": "ななつ",
+    "kanji": "七つ",
+    "type": "noun",
+    "meaning": "seven"
+  },
+  {
+    "kana": "なん/なに",
+    "kanji": "何",
+    "type": "interjection",
+    "meaning": "what"
+  },
+  {
+    "kana": "なのか",
+    "kanji": "七日",
+    "type": "noun",
+    "meaning": "seven days, the seventh day (of the month)"
+  },
+  {
+    "kana": "なまえ",
+    "kanji": "名前",
+    "type": "noun",
+    "meaning": "name"
+  },
+  {
+    "kana": "ならう",
+    "kanji": "習う",
+    "type": "verb",
+    "meaning": "to learn"
+  },
+  {
+    "kana": "ならぶ",
+    "kanji": "並ぶ",
+    "type": "verb",
+    "meaning": "to line up, to stand in a line"
+  },
+  {
+    "kana": "ならべる",
+    "kanji": "並べる",
+    "type": "verb",
+    "meaning": "to line up, to set up"
+  },
+  {
+    "kana": "なる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to become"
+  },
+  {
+    "kana": "なん～",
+    "kanji": "何～",
+    "type": "noun",
+    "meaning": "what sort of ～"
+  },
+  {
+    "kana": "に",
+    "kanji": "二",
+    "type": "number",
+    "meaning": "two"
+  },
+  {
+    "kana": "にぎやか",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "bustling, busy"
+  },
+  {
+    "kana": "にく",
+    "kanji": "肉",
+    "type": "noun",
+    "meaning": "meat"
+  },
+  {
+    "kana": "にし",
+    "kanji": "西",
+    "type": "noun",
+    "meaning": "west"
+  },
+  {
+    "kana": "～にち",
+    "kanji": "～日",
+    "type": "noun",
+    "meaning": "～ day of the month, for ～ days"
+  },
+  {
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "type": "noun",
+    "meaning": "Sunday"
+  },
+  {
+    "kana": "にもつ",
+    "kanji": "荷物",
+    "type": "noun",
+    "meaning": "luggage"
+  },
+  {
+    "kana": "ニュース",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "news"
+  },
+  {
+    "kana": "にわ",
+    "kanji": "庭",
+    "type": "noun",
+    "meaning": "garden"
+  },
+  {
+    "kana": "～にん",
+    "kanji": "～人",
+    "type": "noun",
+    "meaning": "counter for people"
+  },
+  {
+    "kana": "ぬぐ",
+    "kanji": "脱ぐ",
+    "type": "verb",
+    "meaning": "to take off clothes"
+  },
+  {
+    "kana": "ぬるい",
+    "kanji": "温い",
+    "type": "adjective",
+    "meaning": "lukewarm"
+  },
+  {
+    "kana": "ネクタイ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "tie, necktie"
+  },
+  {
+    "kana": "ねこ",
+    "kanji": "猫",
+    "type": "noun",
+    "meaning": "cat"
+  },
+  {
+    "kana": "ねる",
+    "kanji": "寝る",
+    "type": "verb",
+    "meaning": "to go to bed, to sleep"
+  },
+  {
+    "kana": "～ねん",
+    "kanji": "～年",
+    "type": "noun",
+    "meaning": "～ years"
+  },
+  {
+    "kana": "ノート",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "notebook, exercise book"
+  },
+  {
+    "kana": "のぼる",
+    "kanji": "登る",
+    "type": "verb",
+    "meaning": "to climb"
+  },
+  {
+    "kana": "のみもの",
+    "kanji": "飲み物",
+    "type": "noun",
+    "meaning": "drink, beverage"
+  },
+  {
+    "kana": "のむ",
+    "kanji": "飲む",
+    "type": "verb",
+    "meaning": "to drink"
+  },
+  {
+    "kana": "のる",
+    "kanji": "乗る",
+    "type": "verb",
+    "meaning": "to get on, to ride in, to board"
+  },
+  {
+    "kana": "は",
+    "kanji": "歯",
+    "type": "noun",
+    "meaning": "tooth"
+  },
+  {
+    "kana": "パーティー",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "party"
+  },
+  {
+    "kana": "はい",
+    "kanji": "",
+    "type": "interjection",
+    "meaning": "yes"
+  },
+  {
+    "kana": "～はい",
+    "kanji": "～杯",
+    "type": "noun",
+    "meaning": "counter for cupfuls"
+  },
+  {
+    "kana": "はいざら",
+    "kanji": "灰皿",
+    "type": "noun",
+    "meaning": "ashtray"
+  },
+  {
+    "kana": "はいる",
+    "kanji": "入る",
+    "type": "verb",
+    "meaning": "to enter, to contain, to hold"
+  },
+  {
+    "kana": "はがき",
+    "kanji": "葉書",
+    "type": "noun",
+    "meaning": "postcard"
+  },
+  {
+    "kana": "はく",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to wear, to put on (trousers)"
+  },
+  {
+    "kana": "はこ",
+    "kanji": "箱",
+    "type": "noun",
+    "meaning": "box"
+  },
+  {
+    "kana": "はし",
+    "kanji": "橋",
+    "type": "noun",
+    "meaning": "bridge"
+  },
+  {
+    "kana": "はし",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "chopsticks"
+  },
+  {
+    "kana": "はじまる",
+    "kanji": "始まる",
+    "type": "verb",
+    "meaning": "to begin"
+  },
+  {
+    "kana": "はじめ",
+    "kanji": "初め/始め",
+    "type": "expression",
+    "meaning": "beginning, start"
+  },
+  {
+    "kana": "はじめて",
+    "kanji": "初めて",
+    "type": "verb",
+    "meaning": "for the first time"
+  },
+  {
+    "kana": "はしる",
+    "kanji": "走る",
+    "type": "verb",
+    "meaning": "to run"
+  },
+  {
+    "kana": "バス",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "bus"
+  },
+  {
+    "kana": "バター",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "butter"
+  },
+  {
+    "kana": "はたち",
+    "kanji": "二十歳",
+    "type": "noun",
+    "meaning": "20 years old, 20th year"
+  },
+  {
+    "kana": "はたらく",
+    "kanji": "働く",
+    "type": "verb",
+    "meaning": "to work"
+  },
+  {
+    "kana": "はち",
+    "kanji": "八",
+    "type": "number",
+    "meaning": "eight"
+  },
+  {
+    "kana": "はつか",
+    "kanji": "二十日",
+    "type": "noun",
+    "meaning": "twenty days, twentieth (day of the month)"
+  },
+  {
+    "kana": "はな",
+    "kanji": "花",
+    "type": "noun",
+    "meaning": "flower"
+  },
+  {
+    "kana": "はな",
+    "kanji": "鼻",
+    "type": "noun",
+    "meaning": "nose"
+  },
+  {
+    "kana": "はなし",
+    "kanji": "話",
+    "type": "noun",
+    "meaning": "talk, story"
+  },
+  {
+    "kana": "はなす",
+    "kanji": "話す",
+    "type": "verb",
+    "meaning": "to speak"
+  },
+  {
+    "kana": "はは",
+    "kanji": "母",
+    "type": "noun",
+    "meaning": "(one's own) mother"
+  },
+  {
+    "kana": "はやい",
+    "kanji": "早い",
+    "type": "adjective",
+    "meaning": "early"
+  },
+  {
+    "kana": "はやい",
+    "kanji": "速い",
+    "type": "adjective",
+    "meaning": "quick, fast"
+  },
+  {
+    "kana": "はる",
+    "kanji": "春",
+    "type": "noun",
+    "meaning": "spring"
+  },
+  {
+    "kana": "はる",
+    "kanji": "貼る",
+    "type": "verb",
+    "meaning": "to stick, to paste"
+  },
+  {
+    "kana": "はれ",
+    "kanji": "晴れ",
+    "type": "verb",
+    "meaning": "clear weather"
+  },
+  {
+    "kana": "はれる",
+    "kanji": "晴れる",
+    "type": "verb",
+    "meaning": "to be sunny"
+  },
+  {
+    "kana": "はん",
+    "kanji": "半",
+    "type": "noun",
+    "meaning": "half"
+  },
+  {
+    "kana": "ばん",
+    "kanji": "晩",
+    "type": "noun",
+    "meaning": "evening"
+  },
+  {
+    "kana": "～ばん",
+    "kanji": "～番",
+    "type": "noun",
+    "meaning": "～st/th best"
+  },
+  {
+    "kana": "パン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "bread"
+  },
+  {
+    "kana": "ハンカチ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "handkerchief"
+  },
+  {
+    "kana": "ばんごう",
+    "kanji": "番号",
+    "type": "noun",
+    "meaning": "number"
+  },
+  {
+    "kana": "ばんごはん",
+    "kanji": "晩御飯",
+    "type": "noun",
+    "meaning": "dinner, evening meal"
+  },
+  {
+    "kana": "はんぶん",
+    "kanji": "半分",
+    "type": "noun",
+    "meaning": "half"
+  },
+  {
+    "kana": "ひがし",
+    "kanji": "東",
+    "type": "noun",
+    "meaning": "east"
+  },
+  {
+    "kana": "～ひき",
+    "kanji": "～匹",
+    "type": "noun",
+    "meaning": "counter for small animals"
+  },
+  {
+    "kana": "ひく",
+    "kanji": "引く",
+    "type": "verb",
+    "meaning": "to pull"
+  },
+  {
+    "kana": "ひく",
+    "kanji": "弾く",
+    "type": "verb",
+    "meaning": "to play (piano, guitar)"
+  },
+  {
+    "kana": "ひくい",
+    "kanji": "低い",
+    "type": "adjective",
+    "meaning": "short, low"
+  },
+  {
+    "kana": "ひこうき",
+    "kanji": "飛行機",
+    "type": "noun",
+    "meaning": "aeroplane, airplane"
+  },
+  {
+    "kana": "ひだり",
+    "kanji": "左",
+    "type": "noun",
+    "meaning": "left hand side"
+  },
+  {
+    "kana": "ひと",
+    "kanji": "人",
+    "type": "noun",
+    "meaning": "man, person"
+  },
+  {
+    "kana": "ひとつ",
+    "kanji": "一つ",
+    "type": "noun",
+    "meaning": "one"
+  },
+  {
+    "kana": "ひとつき",
+    "kanji": "一月",
+    "type": "noun",
+    "meaning": "one month"
+  },
+  {
+    "kana": "ひとり",
+    "kanji": "一人",
+    "type": "noun",
+    "meaning": "one person"
+  },
+  {
+    "kana": "ひま",
+    "kanji": "暇",
+    "type": "adjective",
+    "meaning": "free time, leisure"
+  },
+  {
+    "kana": "ひゃく",
+    "kanji": "百",
+    "type": "number",
+    "meaning": "100, hundred"
+  },
+  {
+    "kana": "びょういん",
+    "kanji": "病院",
+    "type": "noun",
+    "meaning": "hospital"
+  },
+  {
+    "kana": "びょうき",
+    "kanji": "病気",
+    "type": "noun",
+    "meaning": "illness, disease, sickness"
+  },
+  {
+    "kana": "ひらがな",
+    "kanji": "平仮名",
+    "type": "noun",
+    "meaning": "hiragana"
+  },
+  {
+    "kana": "ひる",
+    "kanji": "昼",
+    "type": "noun",
+    "meaning": "noon, daytime"
+  },
+  {
+    "kana": "ひるごはん",
+    "kanji": "昼御飯",
+    "type": "noun",
+    "meaning": "lunch, midday meal"
+  },
+  {
+    "kana": "ひろい",
+    "kanji": "広い",
+    "type": "adjective",
+    "meaning": "spacious, wide"
+  },
+  {
+    "kana": "フィルム",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "film (roll of)"
+  },
+  {
+    "kana": "ふうとう",
+    "kanji": "封筒",
+    "type": "noun",
+    "meaning": "envelope"
+  },
+  {
+    "kana": "プール",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "swimming pool"
+  },
+  {
+    "kana": "フォーク",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "fork"
+  },
+  {
+    "kana": "ふく",
+    "kanji": "吹く",
+    "type": "verb",
+    "meaning": "to blow (wind, etc)"
+  },
+  {
+    "kana": "ふく",
+    "kanji": "服",
+    "type": "noun",
+    "meaning": "clothes"
+  },
+  {
+    "kana": "ふたつ",
+    "kanji": "二つ",
+    "type": "noun",
+    "meaning": "two"
+  },
+  {
+    "kana": "ぶたにく",
+    "kanji": "豚肉",
+    "type": "noun",
+    "meaning": "pork"
+  },
+  {
+    "kana": "ふたり",
+    "kanji": "二人",
+    "type": "noun",
+    "meaning": "two people"
+  },
+  {
+    "kana": "ふつか",
+    "kanji": "二日",
+    "type": "noun",
+    "meaning": "second day of the month, two days"
+  },
+  {
+    "kana": "ふとい",
+    "kanji": "太い",
+    "type": "adjective",
+    "meaning": "fat, thick"
+  },
+  {
+    "kana": "ふゆ",
+    "kanji": "冬",
+    "type": "noun",
+    "meaning": "winter"
+  },
+  {
+    "kana": "ふる",
+    "kanji": "降る",
+    "type": "verb",
+    "meaning": "to precipitate, to fall (e.g. rain)"
+  },
+  {
+    "kana": "ふるい",
+    "kanji": "古い",
+    "type": "adjective",
+    "meaning": "old (not person), aged, ancient"
+  },
+  {
+    "kana": "ふろ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "bath"
+  },
+  {
+    "kana": "～ふん",
+    "kanji": "～分",
+    "type": "suffix",
+    "meaning": "～minutes"
+  },
+  {
+    "kana": "ぶんしょう",
+    "kanji": "文章",
+    "type": "suffix",
+    "meaning": "sentence, text"
+  },
+  {
+    "kana": "ページ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "page"
+  },
+  {
+    "kana": "へた",
+    "kanji": "下手",
+    "type": "adjective",
+    "meaning": "unskillful, poor"
+  },
+  {
+    "kana": "ベッド",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "bed"
+  },
+  {
+    "kana": "ペット",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "pet"
+  },
+  {
+    "kana": "へや",
+    "kanji": "部屋",
+    "type": "noun",
+    "meaning": "room"
+  },
+  {
+    "kana": "へん",
+    "kanji": "辺",
+    "type": "noun",
+    "meaning": "area, vicinity"
+  },
+  {
+    "kana": "ペン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "pen"
+  },
+  {
+    "kana": "べんきょう（する）",
+    "kanji": "勉強",
+    "type": "noun",
+    "meaning": "study, diligence"
+  },
+  {
+    "kana": "べんり",
+    "kanji": "便利",
+    "type": "adjective",
+    "meaning": "convenient, handy"
+  },
+  {
+    "kana": "ほう",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "way"
+  },
+  {
+    "kana": "ぼうし",
+    "kanji": "帽子",
+    "type": "noun",
+    "meaning": "hat"
+  },
+  {
+    "kana": "ボールペン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "ball-point pen"
+  },
+  {
+    "kana": "ほか",
+    "kanji": "外",
+    "type": "noun",
+    "meaning": "other place, the rest"
+  },
+  {
+    "kana": "ポケット",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "pocket"
+  },
+  {
+    "kana": "ほしい",
+    "kanji": "欲しい",
+    "type": "adjective",
+    "meaning": "want, in need of, desire"
+  },
+  {
+    "kana": "ポスト",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "post"
+  },
+  {
+    "kana": "ほそい",
+    "kanji": "細い",
+    "type": "adjective",
+    "meaning": "thin, slender, fine"
+  },
+  {
+    "kana": "ボタン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "button"
+  },
+  {
+    "kana": "ホテル",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "hotel"
+  },
+  {
+    "kana": "ほん",
+    "kanji": "本",
+    "type": "noun",
+    "meaning": "book"
+  },
+  {
+    "kana": "～ほん",
+    "kanji": "～本",
+    "type": "noun",
+    "meaning": "counter for long cylindrical things"
+  },
+  {
+    "kana": "ほんだな",
+    "kanji": "本棚",
+    "type": "noun",
+    "meaning": "bookshelves"
+  },
+  {
+    "kana": "ほんとう",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "reality, truth"
+  },
+  {
+    "kana": "～まい",
+    "kanji": "～枚",
+    "type": "noun",
+    "meaning": "counter for flat things"
+  },
+  {
+    "kana": "まいあさ",
+    "kanji": "毎朝",
+    "type": "noun",
+    "meaning": "every morning"
+  },
+  {
+    "kana": "まいげつ/まいつき",
+    "kanji": "毎月",
+    "type": "noun",
+    "meaning": "every month, monthly"
+  },
+  {
+    "kana": "まいしゅう",
+    "kanji": "毎週",
+    "type": "noun",
+    "meaning": "every week"
+  },
+  {
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "type": "noun",
+    "meaning": "every day"
+  },
+  {
+    "kana": "まいねん/まいとし",
+    "kanji": "毎年",
+    "type": "noun",
+    "meaning": "every year, annually"
+  },
+  {
+    "kana": "まいばん",
+    "kanji": "毎晩",
+    "type": "noun",
+    "meaning": "every night"
+  },
+  {
+    "kana": "まえ",
+    "kanji": "前",
+    "type": "noun",
+    "meaning": "before, in front"
+  },
+  {
+    "kana": "～まえ",
+    "kanji": "～前",
+    "type": "suffix",
+    "meaning": "in front of ～"
+  },
+  {
+    "kana": "まがる",
+    "kanji": "曲る",
+    "type": "verb",
+    "meaning": "to turn, to bend"
+  },
+  {
+    "kana": "まずい",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "unappetising, unpleasant (taste)"
+  },
+  {
+    "kana": "また",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "again, and"
+  },
+  {
+    "kana": "まだ",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "yet, still, besides"
+  },
+  {
+    "kana": "まち",
+    "kanji": "町",
+    "type": "noun",
+    "meaning": "town, city"
+  },
+  {
+    "kana": "まつ",
+    "kanji": "待つ",
+    "type": "verb",
+    "meaning": "to wait"
+  },
+  {
+    "kana": "まっすぐ",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "straight (ahead), direct"
+  },
+  {
+    "kana": "マッチ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "match"
+  },
+  {
+    "kana": "まど",
+    "kanji": "窓",
+    "type": "noun",
+    "meaning": "window"
+  },
+  {
+    "kana": "まるい",
+    "kanji": "丸い/円い",
+    "type": "adjective",
+    "meaning": "round, circular"
+  },
+  {
+    "kana": "まん",
+    "kanji": "万",
+    "type": "adverb",
+    "meaning": "ten thousand, everything"
+  },
+  {
+    "kana": "まんねんひつ",
+    "kanji": "万年筆",
+    "type": "noun",
+    "meaning": "fountain pen"
+  },
+  {
+    "kana": "みがく",
+    "kanji": "磨く",
+    "type": "verb",
+    "meaning": "to brush (teeth)"
+  },
+  {
+    "kana": "みぎ",
+    "kanji": "右",
+    "type": "noun",
+    "meaning": "right hand side"
+  },
+  {
+    "kana": "みじかい",
+    "kanji": "短い",
+    "type": "adjective",
+    "meaning": "short"
+  },
+  {
+    "kana": "みず",
+    "kanji": "水",
+    "type": "noun",
+    "meaning": "water"
+  },
+  {
+    "kana": "みせ",
+    "kanji": "店",
+    "type": "noun",
+    "meaning": "store, shop, establishment"
+  },
+  {
+    "kana": "みせる",
+    "kanji": "見せる",
+    "type": "verb",
+    "meaning": "to show, to display"
+  },
+  {
+    "kana": "みち",
+    "kanji": "道",
+    "type": "noun",
+    "meaning": "road, street"
+  },
+  {
+    "kana": "みっか",
+    "kanji": "三日",
+    "type": "noun",
+    "meaning": "three days, the third day (of the month)"
+  },
+  {
+    "kana": "みっつ",
+    "kanji": "三つ",
+    "type": "noun",
+    "meaning": "three"
+  },
+  {
+    "kana": "みどり",
+    "kanji": "緑",
+    "type": "noun",
+    "meaning": "green"
+  },
+  {
+    "kana": "みなさん",
+    "kanji": "皆さん",
+    "type": "noun",
+    "meaning": "everyone"
+  },
+  {
+    "kana": "みなみ",
+    "kanji": "南",
+    "type": "noun",
+    "meaning": "South, proceeding south"
+  },
+  {
+    "kana": "みみ",
+    "kanji": "耳",
+    "type": "noun",
+    "meaning": "ear"
+  },
+  {
+    "kana": "みる",
+    "kanji": "見る",
+    "type": "verb",
+    "meaning": "to see, to watch"
+  },
+  {
+    "kana": "みんな",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "all, everyone, everybody"
+  },
+  {
+    "kana": "むいか",
+    "kanji": "六日",
+    "type": "noun",
+    "meaning": "six days, sixth (day of month)"
+  },
+  {
+    "kana": "むこう",
+    "kanji": "向こう",
+    "type": "noun",
+    "meaning": "beyond, over there"
+  },
+  {
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "type": "adjective",
+    "meaning": "difficult"
+  },
+  {
+    "kana": "むっつ",
+    "kanji": "六つ",
+    "type": "number",
+    "meaning": "six"
+  },
+  {
+    "kana": "むら",
+    "kanji": "村",
+    "type": "number",
+    "meaning": "village"
+  },
+  {
+    "kana": "め",
+    "kanji": "目",
+    "type": "noun",
+    "meaning": "eye, eyeball"
+  },
+  {
+    "kana": "メートル",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "metre, meter"
+  },
+  {
+    "kana": "めがね",
+    "kanji": "眼鏡",
+    "type": "noun",
+    "meaning": "spectacles, glasses"
+  },
+  {
+    "kana": "もう",
+    "kanji": "",
+    "type": "adverb",
+    "meaning": "already"
+  },
+  {
+    "kana": "もう",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "again"
+  },
+  {
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "type": "noun",
+    "meaning": "Thursday"
+  },
+  {
+    "kana": "もしもし",
+    "kanji": "",
+    "type": "conjunction",
+    "meaning": "hello (on phone)"
+  },
+  {
+    "kana": "もつ",
+    "kanji": "持つ",
+    "type": "verb",
+    "meaning": "(1) to hold, to carry, (2) to possess"
+  },
+  {
+    "kana": "もっと",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "more, longer, farther"
+  },
+  {
+    "kana": "もの",
+    "kanji": "物",
+    "type": "noun",
+    "meaning": "thing, object"
+  },
+  {
+    "kana": "もん",
+    "kanji": "門",
+    "type": "noun",
+    "meaning": "gate"
+  },
+  {
+    "kana": "もんだい",
+    "kanji": "問題",
+    "type": "noun",
+    "meaning": "problem, question"
+  },
+  {
+    "kana": "～や",
+    "kanji": "屋",
+    "type": "noun",
+    "meaning": "～ shop"
+  },
+  {
+    "kana": "やおや",
+    "kanji": "八百屋",
+    "type": "noun",
+    "meaning": "greengrocer"
+  },
+  {
+    "kana": "やさい",
+    "kanji": "野菜",
+    "type": "noun",
+    "meaning": "vegetable"
+  },
+  {
+    "kana": "やさしい",
+    "kanji": "易しい",
+    "type": "adjective",
+    "meaning": "easy, plain, simple"
+  },
+  {
+    "kana": "やすい",
+    "kanji": "安い",
+    "type": "adjective",
+    "meaning": "cheap, inexpensive"
+  },
+  {
+    "kana": "やすみ",
+    "kanji": "休み",
+    "type": "noun",
+    "meaning": "rest, vacation, holiday"
+  },
+  {
+    "kana": "やすむ",
+    "kanji": "休む",
+    "type": "verb",
+    "meaning": "to rest, to have a break, to take a day off"
+  },
+  {
+    "kana": "やっつ",
+    "kanji": "八つ",
+    "type": "number",
+    "meaning": "eight"
+  },
+  {
+    "kana": "やま",
+    "kanji": "山",
+    "type": "noun",
+    "meaning": "mountain"
+  },
+  {
+    "kana": "やる",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "to do"
+  },
+  {
+    "kana": "ゆうがた",
+    "kanji": "夕方",
+    "type": "noun",
+    "meaning": "evening"
+  },
+  {
+    "kana": "ゆうはん",
+    "kanji": "夕飯",
+    "type": "noun",
+    "meaning": "dinner"
+  },
+  {
+    "kana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "type": "noun",
+    "meaning": "post office"
+  },
+  {
+    "kana": "ゆうべ",
+    "kanji": "昨夜",
+    "type": "noun",
+    "meaning": "last night"
+  },
+  {
+    "kana": "ゆうめい",
+    "kanji": "有名",
+    "type": "adjective",
+    "meaning": "famous"
+  },
+  {
+    "kana": "ゆき",
+    "kanji": "雪",
+    "type": "noun",
+    "meaning": "snow"
+  },
+  {
+    "kana": "ゆっくり・と",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "slowly, at ease"
+  },
+  {
+    "kana": "ようか",
+    "kanji": "八日",
+    "type": "noun",
+    "meaning": "eight days, the eighth (day of the month)"
+  },
+  {
+    "kana": "ようふく",
+    "kanji": "洋服",
+    "type": "noun",
+    "meaning": "Western-style clothes"
+  },
+  {
+    "kana": "よく",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "frequently, often"
+  },
+  {
+    "kana": "よく",
+    "kanji": "",
+    "type": "verb",
+    "meaning": "well, skillfully"
+  },
+  {
+    "kana": "よこ",
+    "kanji": "横",
+    "type": "noun",
+    "meaning": "beside, side, width"
+  },
+  {
+    "kana": "よっか",
+    "kanji": "四日",
+    "type": "noun",
+    "meaning": "(1) 4th day of month, (2) four days"
+  },
+  {
+    "kana": "よっつ",
+    "kanji": "四つ",
+    "type": "noun",
+    "meaning": "four"
+  },
+  {
+    "kana": "よぶ",
+    "kanji": "呼ぶ",
+    "type": "verb",
+    "meaning": "to call out, to invite"
+  },
+  {
+    "kana": "よむ",
+    "kanji": "読む",
+    "type": "verb",
+    "meaning": "to read"
+  },
+  {
+    "kana": "よる",
+    "kanji": "夜",
+    "type": "noun",
+    "meaning": "evening, night"
+  },
+  {
+    "kana": "よわい",
+    "kanji": "弱い",
+    "type": "adjective",
+    "meaning": "weak, feable"
+  },
+  {
+    "kana": "らいげつ",
+    "kanji": "来月",
+    "type": "noun",
+    "meaning": "next month"
+  },
+  {
+    "kana": "らいしゅう",
+    "kanji": "来週",
+    "type": "noun",
+    "meaning": "next week"
+  },
+  {
+    "kana": "らいねん",
+    "kanji": "来年",
+    "type": "noun",
+    "meaning": "next year"
+  },
+  {
+    "kana": "ラジオ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "radio"
+  },
+  {
+    "kana": "ラジカセ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "radio cassette player"
+  },
+  {
+    "kana": "りっぱ",
+    "kanji": "",
+    "type": "adjective",
+    "meaning": "splendid, fine"
+  },
+  {
+    "kana": "りゅうがくせい",
+    "kanji": "留学生",
+    "type": "noun",
+    "meaning": "overseas student"
+  },
+  {
+    "kana": "りょうしん",
+    "kanji": "両親",
+    "type": "noun",
+    "meaning": "parents, both parents"
+  },
+  {
+    "kana": "りょうり",
+    "kanji": "料理",
+    "type": "noun",
+    "meaning": "cooking, cuisine"
+  },
+  {
+    "kana": "りょこう",
+    "kanji": "旅行",
+    "type": "noun",
+    "meaning": "travel, trip"
+  },
+  {
+    "kana": "れい",
+    "kanji": "零",
+    "type": "noun",
+    "meaning": "zero, nought"
+  },
+  {
+    "kana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "type": "noun",
+    "meaning": "refrigerator"
+  },
+  {
+    "kana": "レコード",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "record"
+  },
+  {
+    "kana": "レストラン",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "restaurant"
+  },
+  {
+    "kana": "れんしゅう（する）",
+    "kanji": "練習",
+    "type": "noun",
+    "meaning": "(to) practice"
+  },
+  {
+    "kana": "ろうか",
+    "kanji": "廊下",
+    "type": "noun",
+    "meaning": "corridor"
+  },
+  {
+    "kana": "ろく",
+    "kanji": "六",
+    "type": "number",
+    "meaning": "six"
+  },
+  {
+    "kana": "ワイシャツ",
+    "kanji": "",
+    "type": "noun",
+    "meaning": "shirt (lit: white shirt), business shirt"
+  },
+  {
+    "kana": "わかい",
+    "kanji": "若い",
+    "type": "adjective",
+    "meaning": "young"
+  },
+  {
+    "kana": "わかる",
+    "kanji": "分かる",
+    "type": "verb",
+    "meaning": "to understand"
+  },
+  {
+    "kana": "わすれる",
+    "kanji": "忘れる",
+    "type": "verb",
+    "meaning": "to forget"
+  },
+  {
+    "kana": "わたし",
+    "kanji": "私",
+    "type": "adjective",
+    "meaning": "I, myself"
+  },
+  {
+    "kana": "わたくし",
+    "kanji": "私",
+    "type": "adjective",
+    "meaning": "I, myself"
+  },
+  {
+    "kana": "わたす",
+    "kanji": "渡す",
+    "type": "verb",
+    "meaning": "to pass over, to hand over"
+  },
+  {
+    "kana": "わたる",
+    "kanji": "渡る",
+    "type": "verb",
+    "meaning": "to cross over, to go across"
+  },
+  {
+    "kana": "わるい",
+    "kanji": "悪い",
+    "type": "adjective",
+    "meaning": "bad, inferior"
+  }
+]

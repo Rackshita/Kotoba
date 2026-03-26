@@ -1,0 +1,57 @@
+<div class="min-h-screen flex bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-900">
+
+  <!-- Left Side -->
+  <div class="hidden lg:flex w-1/2 flex-col items-center justify-center text-white p-12">
+    <img src="Kotoba.png" alt="Kotoba Logo" class="w-40 mb-6">
+    <h1 class="text-4xl font-bold mb-4">Welcome to Kotoba</h1>
+    <p class="text-blue-200 text-center max-w-md">
+      Master Japanese vocabulary through smart spaced repetition and micro learning.
+    </p>
+  </div>
+
+  <!-- Right Side -->
+  <div class="flex w-full lg:w-1/2 items-center justify-center">
+    <div class="bg-white/10 backdrop-blur-lg p-10 rounded-2xl shadow-2xl w-full max-w-md text-white">
+
+      <h2 class="text-3xl font-semibold mb-6 text-center">Login</h2>
+
+      <form (ngSubmit)="onLogin()" class="space-y-5">
+
+        <input
+          type="email"
+          [(ngModel)]="email"
+          name="email"
+          placeholder="Email"
+          required
+          class="w-full px-4 py-3 rounded-lg bg-white/20 focus:outline-none focus:ring-2 focus:ring-blue-400 placeholder-white/70"
+        />
+
+        <input
+          type="password"
+          [(ngModel)]="password"
+          name="password"
+          placeholder="Password"
+          required
+          class="w-full px-4 py-3 rounded-lg bg-white/20 focus:outline-none focus:ring-2 focus:ring-blue-400 placeholder-white/70"
+        />
+
+        <button
+          type="submit"
+          class="w-full bg-blue-500 hover:bg-blue-600 transition duration-300 py-3 rounded-lg font-semibold"
+        >
+          Login
+        </button>
+
+      </form>
+
+      <p class="mt-6 text-center text-sm text-blue-200">
+        Don't have an account?
+        <a routerLink="/register" class="text-blue-400 hover:underline">
+          Sign Up
+        </a>
+      </p>
+
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,28 @@
+.sidebar {
+  width: 220px;
+  background: #1e293b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.logo {
+  margin-bottom: 30px;
+  color: #f472b6;
+}
+
+nav a {
+  display: block;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #cbd5e1;
+}
+
+nav a:hover,
+nav a.active {
+  background: #334155;
+  color: white;
+}
